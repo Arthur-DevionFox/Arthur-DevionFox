@@ -17,8 +17,6 @@
 - :seedling: Изучаю документации.
 
 - :zap: В свободное время читаю книги и провожу настолки.
-
-- 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
